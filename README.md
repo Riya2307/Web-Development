@@ -17,7 +17,7 @@
 ## 🧩 Project Structure
 
 ```
-Sana Project/
+ Project/
 │
 ├── code/
 │   ├── Images (.jpg, .png, .avif)
